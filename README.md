@@ -10,6 +10,8 @@ npm install --save panel-swiper
 
 ## Example
 
+[![Edit PanelSwiperDemo](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/53pl5r447l?view=preview)
+
 ```jsx
 import React from 'react';
 import { Swiper, Panel } from 'panel-swiper';

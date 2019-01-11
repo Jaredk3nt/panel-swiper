@@ -1,6 +1,6 @@
 {
   "name": "panel-swiper",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Animated swipe component for React",
   "main": "dist/index.js",
   "scripts": {
